@@ -1,9 +1,9 @@
 import { proyectos } from "../models/ModelProyectos.js";
 
-export function listaProyectos(){
-
+export function listarProyectos(){
+console.log(proyectos)
 }
-
+    
 export function filtrarPorEmpresa(){
 
 }
